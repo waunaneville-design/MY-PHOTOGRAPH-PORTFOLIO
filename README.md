@@ -7,7 +7,6 @@ A clean, responsive single-page photography portfolio built with plain HTML and 
 
 ## Quick start
 - Open locally: double-click `index.html` or run a local server:
-  - `python -m http.server 8000` → visit `http://localhost:8000`
 - Recommended: use VS Code Live Server extension for hot reload.
 
 ---
@@ -68,7 +67,7 @@ Example markup for a gallery item:
 ## Deployment (GitHub Pages)
 1. Push your repo to GitHub
 2. Settings → Pages → choose `main` branch → root
-3. Visit `https://<username>.github.io/<repo-name>/`
+3. Visit live site https://waunaneville-design.github.io/MY-PHOTOGRAPH-PORTFOLIO/
 
 ---
 
